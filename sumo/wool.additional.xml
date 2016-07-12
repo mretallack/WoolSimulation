@@ -6,6 +6,13 @@ The level crossing data is taken from levelCrossingTimesDown8am.txt
 
 -->
 <additional>
+
+    <!--
+	Emissions from crossing
+    -->
+    <edgeData id="emission_0" type="emissions" file="wool.emissions.xml" />
+
+
     <tlLogic id="joinedS_0" type="static" programID="1" offset="0">
 
 <!-- was 870 -->
