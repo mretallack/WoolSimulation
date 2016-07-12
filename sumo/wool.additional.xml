@@ -10,7 +10,7 @@ The level crossing data is taken from levelCrossingTimesDown8am.txt
     <!--
 	Emissions from crossing
     -->
-    <edgeData id="emission_0" type="emissions" file="wool.emissions.xml" />
+    <edgeData id="emission_0" type="emissions" freq="60" file="wool.emission.xml" />
 
 
     <tlLogic id="joinedS_0" type="static" programID="1" offset="0">
