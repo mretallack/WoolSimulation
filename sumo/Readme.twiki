@@ -39,11 +39,24 @@ duarouter --flow-files wool.flow.xml --net-file wool.net.xml --output-file wool.
 duarouter --flow-files wool.impactswool.xml --net-file wool.net.xml --output-file wool.rou.xml -b 0 -e 3600
 
 
+Flow Data
+---------
+
+wool.impactswool.xml:
+
 
 The wool.impactswool.xml flows file is based upon the flows from the inpact assessment. 
 
 
+wool.estflows.xml:
+
+
 The wool.estflows.xml flows file is based upon the flows from the traffic survey data. 
+
+
+wool.est1000flows.xml:
+
+The wool.est1000flows.xml flows file is based upon the flows from the traffic survey data along with the extra 1000 house TRIP data added into it. 
 
 
 
