@@ -59,6 +59,10 @@ wool.est1000flows.xml:
 The wool.est1000flows.xml flows file is based upon the flows from the traffic survey data along with the extra 1000 house TRIP data added into it. 
 
 
+wool.woolrathflows.wr8am.xml:
+
+The wool.woolrathflows.wr8am.xml flows file is based upon the flows from the WoolRath traffic survey data for Winfrith Roundabout	08:00:00 (both E and W). 
+
 
 
 
