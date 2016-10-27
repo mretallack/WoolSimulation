@@ -19,7 +19,7 @@
         <!-- 
 		320 from new estate
 	 -->
-	<flow id="west_to_east_10" from="4691379#0" to="--13195" vehsPerHour="320" type="CAR" />
+	<flow id="west_to_east_10" from="4691379#0" to="--13195" vehsPerHour="176" type="CAR" />
 
 </vehicles>
 
