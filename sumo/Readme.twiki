@@ -64,6 +64,13 @@ wool.woolrathflows.wr8am.xml:
 The wool.woolrathflows.wr8am.xml flows file is based upon the flows from the WoolRath traffic survey data for Winfrith Roundabout	08:00:00 (both E and W). 
 
 
+The wool.woolrathflows.st8am.xml flows file is based upon the flows from the WoolRath traffic survey data for Station Garage	08:00:00 (both E and W). 
+
+
+The wool.woolrathflows1000.wr8am.xml is wool.woolrathflows.wr8am.xml with additional 1000 homes taken from an east/west split from station Station Garage
+
+
+The wool.woolrathflows1000.wr8am.xml is wool.woolrathflows.st8am.xml with additional 1000 homes taken from an east/west split from station Station Garage
 
 
 
